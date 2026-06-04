@@ -113,20 +113,25 @@ class BugCreator404:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BugCreator404&theme=tokyonight&hide_border=true&border_radius=10&background=0F0F1A&ring=8B5CF6&fire=F43F5E&currStreakLabel=8B5CF6&sideLabels=06B6D4&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=BugCreator404&theme=tokyonight&hide_border=true&border_radius=10&background=0F0F1A&ring=8B5CF6&fire=F43F5E&currStreakLabel=8B5CF6&sideLabels=06B6D4&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&starting_year=2024" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BugCreator404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=8B5CF6&icon_color=06B6D4&text_color=94A3B8&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<!-- Stats Card -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BugCreator404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=8B5CF6&icon_color=06B6D4&text_color=94A3B8&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugCreator404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=8B5CF6&text_color=94A3B8&border_radius=10&langs_count=8" alt="Top Languages" />
+<!-- Top Languages -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugCreator404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=8B5CF6&text_color=94A3B8&border_radius=10&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BugCreator404&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+<!-- Trophies — column=4 es más seguro para cuentas nuevas -->
+<img src="https://github-profile-trophy.vercel.app/?username=BugCreator404&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 <br/><br/>
 
+<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BugCreator404&bg_color=0f0f1a&color=8b5cf6&line=06b6d4&point=f43f5e&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
 
 </div>
