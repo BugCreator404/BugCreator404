@@ -114,7 +114,7 @@ class BugCreator404:
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=BugCreator404&theme=tokyonight&hide_border=true&border_radius=10&background=0F0F1A&ring=8B5CF6&fire=F43F5E&currStreakLabel=8B5CF6&sideLabels=06B6D4&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&starting_year=2024" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=BugCreator404&theme=tokyonight&hide_border=true&border_radius=10&background=0F0F1A&ring=8B5CF6&fire=F43F5E&currStreakLabel=8B5CF6&sideLabels=06B6D4&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 <br/><br/>
 
