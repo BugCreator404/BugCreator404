@@ -33,7 +33,7 @@ class BugCreator404:
     ubicacion  = "Tijuana, Baja California 🇲🇽"
     carrera    = "Ing. Sistemas Computacionales @ ITT"
     rol        = "Full-Stack Developer | Freelance"
-    contacto   = "edwinyairhdz@gmail.com"
+    contacto   = "edwinyhl.dev@gmail.com"
 
     stack      = ["Python", "JavaScript", "C#", "Flutter", "SQL"]
     backend    = ["Flask", "FastAPI", ".NET", "REST APIs"]
