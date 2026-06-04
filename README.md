@@ -121,6 +121,7 @@ class BugCreator404:
 <!-- Stats Card -->
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BugCreator404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=8B5CF6&icon_color=06B6D4&text_color=94A3B8&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 &nbsp;&nbsp;
+
 <!-- Top Languages -->
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugCreator404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=8B5CF6&text_color=94A3B8&border_radius=10&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
 
