@@ -172,7 +172,7 @@ class BugCreator404:
 |---|---|
 | 🎓 | **Ing. Sistemas Computacionales** — Instituto Tecnológico de Tijuana *(2022 – Actualidad)* |
 | 📜 | **JavaScript Essentials 1** — Cisco Networking Academy *(2024)* |
-| 🏆 | **HackFox 2026** — Hackathon GDG Tijuana *(Top finisher)* |
+| 🏆 | **HackFox 2026** — Hackathon GDG Tijuana |
 
 </div>
 
@@ -183,7 +183,7 @@ class BugCreator404:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-edwinyhl.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinyhl.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Hernández-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-hernandez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Edwin_Hernández-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinyairhernandez/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-edwindev.dpdns.org-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](http://edwindev.dpdns.org)
 
 </div>
