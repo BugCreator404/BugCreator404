@@ -103,7 +103,7 @@ class BugCreator404:
 | [🍳 ChefAI](https://github.com/BugCreator404/ChefAI) | Recomendador de recetas por ingredientes · TF-IDF + similitud coseno · API REST <50ms | `Python` `Flask` `scikit-learn` |
 | [🚗 VicarWeb](https://github.com/BugCreator404/VicarWeb) | Sistema web de gestión de flota vehicular para redes locales con reportes PDF | `Python` `Flask` `PostgreSQL` `Chart.js` |
 | [🗑️ IoT Monitoreo](https://github.com/BugCreator404/iot-monitoreo) | Monitoreo de contenedores urbanos · Raspberry Pi → MQTT → InfluxDB → Grafana | `Python` `MQTT` `AWS EC2` `Grafana` |
-| [♿ Tijuana Sin Barreras](https://github.com/AvatoAvenue/TijuanaSinBarreras) | App móvil de accesibilidad urbana · HackFox 2026 en 48h 🏆 | `Flutter` `Firebase` `Gemini AI` |
+| [♿ Tijuana Sin Barreras](https://github.com/AvatoAvenue/TijuanaSinBarreras) | App móvil de accesibilidad urbana · HackFox 2026 en 26h 🏆 | `Flutter` `Firebase` `Gemini AI` |
 
 </div>
 
